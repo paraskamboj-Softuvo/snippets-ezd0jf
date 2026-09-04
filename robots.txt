@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paraskamboj-Softuvo.github.io/snippets-ezd0jf/sitemap.xml
